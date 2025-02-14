@@ -1,6 +1,6 @@
 ## Sejam Bem-Vindos ao Meu Mundo!
 
-![Gif do Gatinho](https://tenor.com/pt-BR/view/thai-ping-typing-typing-fast-cat-typing-gif-8974944355033076259)
+![Gif do Gatinho](https://tenor.com/kQ9vgwg7KKt.gif)
 
 <!--
 **LuizZMota/LuizZMota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
