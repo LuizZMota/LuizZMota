@@ -1,6 +1,6 @@
 ## Sejam Bem-Vindos ao Meu Mundo!
 
-![Gif do Gatinho](https://tenor.com/kQ9vgwg7KKt.gif)
+![Gif do Gatinho](https://i.pinimg.com/originals/42/88/3f/42883febee162540ff01bb4392704366.gif)
 
 <!--
 **LuizZMota/LuizZMota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
