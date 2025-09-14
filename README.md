@@ -2,10 +2,17 @@
 
 ![Gif do Gatinho](https://i.pinimg.com/originals/42/88/3f/42883febee162540ff01bb4392704366.gif)
 
+---------------
+
 - 🙋 Olá, me chamo Luiz Mota!
-- 💬 Sou estudante de Ciências da Computação (3/8).
+- 💬 Sou estudante de Ciências da Computação (4/8).
+- 🌱 Estou atualmente estudando Java e Git.
 
+-------------
 
+### Minhas Tecnologias
+
+![JAVA](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)
 <!--
 **LuizZMota/LuizZMota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
