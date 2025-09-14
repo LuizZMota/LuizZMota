@@ -12,7 +12,26 @@
 
 ### Minhas Tecnologias
 
-![JAVA](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100px">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="100px">
+
+
+-----------------
+| Cursos | Certificados |
+|--------|--------------|
+|Python Fundamentals | [Certificado](https://www.dio.me/certificate/TJKJYL48/share)
+
+
+
+----------
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <!--
 **LuizZMota/LuizZMota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
