@@ -30,7 +30,7 @@
 
 
 ----------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Luiz Mota's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizzmota&show_icons=true&theme=tokyonight)
 
 <!--
 **LuizZMota/LuizZMota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
