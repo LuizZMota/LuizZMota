@@ -17,6 +17,11 @@
 </p>
 
 -----------------
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jframnp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-francisco-b94b84237/)
+
+--------------------------
 | Cursos | Certificados |
 |--------|--------------|
 |Python Fundamentals | [Certificado](https://www.dio.me/certificate/TJKJYL48/share)
@@ -24,6 +29,10 @@
 
 
 ----------
+
+![](https://github-readme-stats.vercel.app/api?username=luizzmota&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=luizzmota&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=luizzmota&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![Luiz Mota's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizzmota&show_icons=true&theme=tokyonight)
 
 <!--
