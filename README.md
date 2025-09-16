@@ -21,7 +21,7 @@
 -----------------
 
 ## 🌐 Socials:
-[<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="150" height="150">](https://www.instagram.com/luizz.mota/)
+[<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="115" height="115">](https://www.instagram.com/luizz.mota/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="100" height="100">](https://www.linkedin.com/in/luiz-mota-1a61642aa/)
 
 
