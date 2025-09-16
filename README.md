@@ -26,9 +26,11 @@
 
 
 --------------------------
-| Cursos | Certificados |
-|--------|--------------|
-|Python Fundamentals | [Certificado](https://www.dio.me/certificate/TJKJYL48/share)
+## 🎓 Cursos e Certificados
+
+| Curso                     | Certificado |
+|----------------------------|-------------|
+| 🐍 **Python Fundamentals** | [📜 Ver Certificado](https://www.dio.me/certificate/TJKJYL48/share) |
 
 
 
